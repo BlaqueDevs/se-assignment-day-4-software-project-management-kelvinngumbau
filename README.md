@@ -242,43 +242,43 @@ My platform is a digital marketplace designed to empower both local and well-est
 For buyers, the platform provides a convenient way to discover and purchase fresh farm products from trusted farmers, eliminating the hassle of middlemen and ensuring they get the best value. With an easy-to-use interface, secure transactions, and a focus on quality assurance, we’re making agriculture more connected, efficient, and profitable for all.
 ## 11. What are the main features or functionalities that make your software stand out?
 Key Features That Make my Agricultural E-Commerce Platform Stand Out
-1.	Farmer & Vendor Profiles 👨‍🌾
+1.	Farmer & Vendor Profiles
 
 •	Farmers can create profiles to showcase their products, farm details, and customer ratings.
 •	Builds trust and credibility among buyers.
-2.	Product Listings & Categorization 🌾
+2.	Product Listings & Categorization
 
 •	Farmers can easily upload product images, descriptions, and pricing.
 •	Smart categorization for easy navigation (e.g., fresh produce, livestock, dairy, seeds).
-3.	Direct Farmer-to-Buyer Transactions 💰
+3.	Direct Farmer-to-Buyer Transactions
 
 •	Eliminates middlemen, ensuring fair pricing for both farmers and buyers.
 •	Buyers can contact farmers directly through the platform.
-4.	Secure Payment System 🔒
+4.	Secure Payment System 
 
 •	Integrated multiple payment options (mobile money, bank transfers, or digital wallets).
 •	Ensures smooth and secure transactions.
-5.	Order Management & Tracking 📦
+5.	Order Management & Tracking
 
 •	Buyers can place orders and track deliveries in real-time.
 •	Farmers receive instant notifications about new orders.
-6.	Reviews & Ratings System ⭐
+6.	Reviews & Ratings System
 
 •	Buyers can rate and review farmers/products for quality assurance.
 •	Helps new customers make informed decisions.
-7.	Smart Search & Filtering 🔍
+7.	Smart Search & Filtering
 
 •	Advanced filters for location, product type, price range, and availability.
 •	Ensures a seamless buying experience.
-8.	Delivery & Logistics Support 🚚
+8.	Delivery & Logistics Support
 
 •	Partnership with local delivery services for fast and reliable shipping.
 •	Farmers can opt for self-delivery or third-party delivery.
-9.	Mobile-Friendly & Offline Access 📱
+9.	Mobile-Friendly & Offline Access
 
 •	Responsive design for easy access on mobile devices.
 •	Offline mode for browsing saved listings.
-10.	Market Insights & Analytics 📊
+10.	Market Insights & Analytics
 
 •	Farmers get insights on trending products, customer preferences, and sales performance.
 •	Helps improve business decisions and profitability.
